@@ -1,0 +1,9 @@
+body {
+  background-image: url(img/back.png);
+}
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(200, 216, 58);
+  margin-left: 20px;
+}
+
