@@ -1,13 +1,20 @@
+html {
+  height: 100%;
+}
 body {
-  background-image: url(back.jpeg);
-  background-repeat:  repeat;
-  background-color: #cccccc;
-  
+  min-height: 100%;
+  background-image: linear-gradient(rgba(129, 214, 250, 0.835), rgba(129,214,250,0.199));
+  background-size: auto;
 
 }
+img.d-block{
+  max-height: 800px;
+
+}
+
 h1 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  color: rgb(200, 216, 58);
+  color: rgb(115, 143, 202);
   margin-left: 20px;
 }
 
